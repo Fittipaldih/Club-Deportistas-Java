@@ -1,11 +1,11 @@
-# Proyecto Deportistas Español
+# Proyecto Deportistas (Español)
 ## Proyecto en Java 8 y Junit4 <br>
 Es un proyecto simple, con la finalidad de realizar prácticas en Java e implementar la metodología TDD ¿Que es TDD?
 Es una metodología de desarrollo cuyo objetivo es crear primero las pruebas y luego escribir el software. Sus siglas en Inglés son: Test Driven Development y en español significa: Desarrollo guiado por pruebas. <br>
 Nos solicitan desarrollar el software para un club que se dedica a la organización de eventos deportivos del siguiente tipo: <br>a. Natación b. Ciclismo c. Pedestrismo (Running) d. Acuatlon (Combinación entre natación y pedestrismo) e. Duatlon (Combinación entre pedestrismo y ciclismo) f. Triattlon (Combinación de las tres diciplinas, natación, ciclismo y pedestrismo) <br>Para poder participar de los eventos deportivos, primero se tiene que ser socio. Los socios se identifican unívocamente por el número de socio, y, según la disciplina que realizan, se requiere conocer determinada información: <br># Nadadores: Se desea conocer su estilo preferido (Los estilos son Croll, Espalda, Pecho y Mariposa).<br>
 #Ciclistas: Se desea conocer el tipo de bicicleta que utilizan (De montaña, de ruta o de triatlón) <br>#Corredores: Se desea conocer su distancia preferida (5 Km, 10 Km, 21 Km o la Maratón de 42 Km). <br>Para este club la seguridad de sus socios es muy importante, en consecuencia, nos encargan custodiar que el sistema no permita que un deportista no pueda inscribirse en una competencia para la cual no esté preparado, por tal motivo, para el caso que se intente realizar eso, el sistema tiene que generar una Excepción (NoEstaPreparado). <br>Pd: Un deportista “no está preparado” si por ejemplo desea participar de un torneo de natación, pero no sabe nadar. 
 
-# Project Athletes English 
+# Project Athletes (English) 
 ## Proyect in Java 8 and Junit4 <br>
 It is a simple project, with the purpose of carrying out practices in Java and implementing the TDD methodology. What is TDD?
 It is a development methodology whose objective is to first create the tests and then write the software. Its acronym in English is: Test Driven Development.<br>
